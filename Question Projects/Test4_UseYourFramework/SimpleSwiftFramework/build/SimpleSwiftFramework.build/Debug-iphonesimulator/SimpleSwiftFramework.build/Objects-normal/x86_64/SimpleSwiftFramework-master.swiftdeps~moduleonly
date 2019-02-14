@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "471f6ba83a6c3318af8db91534e3dd7c"
+build_time: [1548490560, 333002000]
+inputs:
+  "/Users/akamatechayapiwat/Desktop/iOS Test (Intermediate) Question/Question Projects/Test4_UseYourFramework/SimpleSwiftFramework/SimpleSwiftFramework/SimpleSwiftFramework.swift": [1548490501, 0]

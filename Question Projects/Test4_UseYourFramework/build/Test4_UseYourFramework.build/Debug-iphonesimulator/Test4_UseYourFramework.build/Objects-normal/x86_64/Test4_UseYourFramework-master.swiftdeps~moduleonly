@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "5d401120a52156ca6428cb8de14f2677"
+build_time: [1548491604, 7409000]
+inputs:
+  "/Users/akamatechayapiwat/Desktop/iOS Test (Intermediate) Question/Question Projects/Test4_UseYourFramework/Test4_UseYourFramework/ViewController.swift": [1548491603, 0]
+  "/Users/akamatechayapiwat/Desktop/iOS Test (Intermediate) Question/Question Projects/Test4_UseYourFramework/Test4_UseYourFramework/AppDelegate.swift": [1524632954, 0]

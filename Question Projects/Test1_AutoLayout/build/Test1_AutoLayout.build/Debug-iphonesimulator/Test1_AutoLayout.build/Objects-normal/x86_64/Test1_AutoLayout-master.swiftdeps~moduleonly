@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "17fdde6d9d977cf4e1c4adbe8fd1da17"
+build_time: [1549960144, 659717000]
+inputs:
+  "/Users/akamatechayapiwat/Desktop/iOS Test (Intermediate) Question/Question Projects/Test1_AutoLayout/Test1_AutoLayout/DetailViewController.swift": [1524657510, 0]
+  "/Users/akamatechayapiwat/Desktop/iOS Test (Intermediate) Question/Question Projects/Test1_AutoLayout/Test1_AutoLayout/TestData.swift": [1524657166, 0]
+  "/Users/akamatechayapiwat/Desktop/iOS Test (Intermediate) Question/Question Projects/Test1_AutoLayout/Test1_AutoLayout/DetailCell.swift": [1524653380, 0]
+  "/Users/akamatechayapiwat/Desktop/iOS Test (Intermediate) Question/Question Projects/Test1_AutoLayout/Test1_AutoLayout/ViewController.swift": [1524652401, 0]
+  "/Users/akamatechayapiwat/Desktop/iOS Test (Intermediate) Question/Question Projects/Test1_AutoLayout/Test1_AutoLayout/UIViewExtension.swift": [1548483135, 0]
+  "/Users/akamatechayapiwat/Desktop/iOS Test (Intermediate) Question/Question Projects/Test1_AutoLayout/Test1_AutoLayout/AppDelegate.swift": [1548483135, 0]

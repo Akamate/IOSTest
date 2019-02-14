@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "70a43abf6ce28b8738c30e0f26e57cfa"
+build_time: [1548491557, 349417000]
+inputs:
+  "/Users/akamatechayapiwat/Desktop/iOS Test (Intermediate) Question/Question Projects/Test4_UseYourFramework/SimpleSwiftFramework/CallingFrameworkFunction.swift": [1548491557, 0]

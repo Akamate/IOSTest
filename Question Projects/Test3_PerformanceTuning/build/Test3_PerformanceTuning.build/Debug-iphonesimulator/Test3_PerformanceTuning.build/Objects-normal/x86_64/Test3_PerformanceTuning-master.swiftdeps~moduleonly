@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "4ec34bde41aebe3fb0f7d6f57778c765"
+build_time: [1550140059, 368553000]
+inputs:
+  "/Users/akamatechayapiwat/Desktop/iOS Test (Intermediate) Question/Question Projects/Test3_PerformanceTuning/Test3_PerformanceTuning/AppDelegate.swift": [1525322010, 0]
+  "/Users/akamatechayapiwat/Desktop/iOS Test (Intermediate) Question/Question Projects/Test3_PerformanceTuning/Test3_PerformanceTuning/ThumbNailCell.swift": [1525257928, 0]
+  "/Users/akamatechayapiwat/Desktop/iOS Test (Intermediate) Question/Question Projects/Test3_PerformanceTuning/Test3_PerformanceTuning/TestData.swift": [1527657318, 0]
+  "/Users/akamatechayapiwat/Desktop/iOS Test (Intermediate) Question/Question Projects/Test3_PerformanceTuning/Test3_PerformanceTuning/ThumbNailViewController.swift": [1548492740, 0]

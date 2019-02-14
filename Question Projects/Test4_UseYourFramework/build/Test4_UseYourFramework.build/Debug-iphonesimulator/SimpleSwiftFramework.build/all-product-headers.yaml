@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/akamatechayapiwat/Desktop/iOS Test (Intermediate) Question/Question Projects/Test4_UseYourFramework/build/Debug-iphonesimulator/SimpleSwiftFramework.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SimpleSwiftFramework-Swift.h",
+          'external-contents': "/Users/akamatechayapiwat/Desktop/iOS Test (Intermediate) Question/Question Projects/Test4_UseYourFramework/build/Debug-iphonesimulator/SimpleSwiftFramework.framework/Headers/SimpleSwiftFramework-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SimpleSwiftFramework.h",
+          'external-contents': "/Users/akamatechayapiwat/Desktop/iOS Test (Intermediate) Question/Question Projects/Test4_UseYourFramework/SimpleSwiftFramework/SimpleSwiftFramework.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/akamatechayapiwat/Desktop/iOS Test (Intermediate) Question/Question Projects/Test4_UseYourFramework/build/Debug-iphonesimulator/SimpleSwiftFramework.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/akamatechayapiwat/Desktop/iOS Test (Intermediate) Question/Question Projects/Test4_UseYourFramework/build/Test4_UseYourFramework.build/Debug-iphonesimulator/SimpleSwiftFramework.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
